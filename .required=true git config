@@ -13,6 +13,7 @@ credential.helper=manager
 credential.https://dev.azure.com.usehttppath=true
 init.defaultbranch=master
 user.name=Mykola
+user.email=ar7sawa7@gmail.com
 core.repositoryformatversion=0
 core.filemode=false
 core.bare=false
